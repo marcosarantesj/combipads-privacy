@@ -1,58 +1,3 @@
-Esta é uma estrutura sólida para sua Política de Privacidade. Como você vai vendê-lo globalmente, ela cobre os pontos essenciais da LGPD (Brasil) e GDPR (Europa), mantendo a linguagem genérica conforme solicitado.
-
-Aqui está o conteúdo para o seu arquivo `privacy-policy.md`:
-
----
-
-# Privacy Policy / Política de Privacidade
-
-## [English Version]
-
-**Effective Date:** December 24, 2025
-
-### 1. Introduction
-
-Welcome to **CombiPads - Pads Continuos**. We respect your privacy and are committed to protecting your personal data. This policy explains how we handle your information when you use our services.
-
-### 2. Data Collection
-
-To provide our services, we collect:
-
-* **Account Information:** Email address provided during registration.
-* **Device Information:** Unique identifiers to enforce the limit of 2 devices per account.
-* **Subscription Data:** Information regarding your subscription status, managed and processed by the respective app store.
-
-### 3. App Features and Usage
-
-Our app allows you to:
-
-* Download and play continuous pads.
-* Import custom audio files (MP3 only).
-* Create, export, and import presets.
-* Use advanced audio tools (Pitch, Fade, Cutoff, Metronome, etc.).
-The files you import and the presets you create are stored locally on your device.
-
-### 4. Trial Period and Subscriptions
-
-* **Trial:** We offer a 3-day trial period. Registration is required to access the trial.
-* **Subscription:** Monthly subscriptions grant full access to all features. Payments, renewals, and cancellations are handled directly by the app store.
-* **Device Limit:** Usage is restricted to a maximum of 2 devices per account to prevent unauthorized sharing.
-
-### 5. Offline Usage
-
-After the initial login and verification, the app can be used offline. Subscription status is cached locally and synchronized whenever an internet connection is available.
-
-### 6. Data Sharing
-
-We do not sell your data. We only share information with third-party services necessary for:
-
-* Authentication and database management (Supabase).
-* Subscription management and validation (RevenueCat).
-
----
-
-## [Português]
-
 **Data de Vigência:** 24 de Dezembro de 2025
 
 ### 1. Introdução
@@ -91,13 +36,7 @@ Após o login inicial e a verificação, o aplicativo pode ser usado offline. O 
 
 Não vendemos seus dados. Apenas compartilhamos informações com serviços de terceiros necessários para:
 
-* Autenticação e gerenciamento de banco de dados (Supabase).
-* Gerenciamento e validação de assinaturas (RevenueCat).
+* Autenticação e gerenciamento de banco de dados.
+* Gerenciamento e validação de assinaturas.
 
 ---
-
-### Próximo Passo Sugerido:
-
-Agora que você tem o texto, basta copiar o bloco acima, colar no seu arquivo `privacy-policy.md` no GitHub e fazer o **Commit**.
-
-**Deseja que eu te ajude com o comando para gerar a Keystore do Android para que você possa fazer o build final agora?**
