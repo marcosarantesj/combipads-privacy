@@ -3,7 +3,7 @@
 > **Última atualização / Last Updated:** 07 de Janeiro de 2026
 ---
 
-## 🇧🇷 Versão em Português
+## Versão em Português
 
 ### 1. Aceitação dos Termos
 Ao acessar ou usar o aplicativo **CombiPads** ("App"), você concorda em ficar vinculado a estes Termos de Uso. Se você não concordar com qualquer parte destes termos, não deverá usar o App.
@@ -51,7 +51,7 @@ Para questões sobre estes Termos, entre em contato: **suporte@arantesds.com**
 
 ---
 
-## 🇺🇸 English Version
+## English Version
 
 ### 1. Acceptance of Terms
 By accessing or using the **CombiPads** application ("App"), you agree to be bound by these Terms of Use. If you do not agree to any part of these terms, you should not use the App.
