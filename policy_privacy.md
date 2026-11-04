@@ -5,67 +5,55 @@
 **Effective Date:** December 24, 2025
 
 ### 1.1. Introduction
-Welcome to **CombiPads - Continuous Pads**. We respect your privacy and are committed to protecting your personal data. This policy explains how we handle your information when you use our services.
+Welcome to **CombiPads - Continuous Pads**. We respect your privacy and are committed to protecting your personal data. This policy explains how information is handled when you use our mobile application across supported platforms and stores.
 
-### 1.2. Data Collection
-To provide our services, we collect:
-* **Account Information:** Email address provided during registration.
-* **Device Information:** Unique identifiers used to enforce the limit of 2 devices per account.
-* **Subscription Data:** Information regarding your subscription status, managed and processed by the respective app store.
+### 1.2. Data Collection and Privacy
+We do not require account registration or login, nor do we collect, store, or share any personal identifiable information or sensitive user data. 
 
-### 1.3. Features and App Usage
+### 1.3. Features and Local Data
 Our app allows you to:
-* Download and play continuous pads.
-* Import custom audio files (MP3 format only).
-* Create, export, and import presets.
-* Use advanced audio tools (Pitch, Fade, Cutoff, Metronome, etc.).
-All imported files and created presets are stored locally on your device.
+- Download and play continuous pads.
+- Import custom audio files.
+- Create, export, and import presets.
+- Use advanced audio tools (Pitch, Fade, Cutoff, Metronome, etc.).
 
-### 1.4. Trial Period and Subscriptions
-* **Trial:** We offer a 3-day trial period. Registration is required to access the trial.
-* **Subscription:** Monthly subscriptions grant full access to all features. Payments, renewals, and cancellations are handled directly by the app store.
-* **Device Limit:** Usage is restricted to a maximum of 2 devices per account to prevent unauthorized sharing.
+All imported audio files, created presets, and user settings are stored locally on your device.
+
+### 1.4. Subscriptions and Payments
+- **Trial and Subscriptions:** We may offer a trial period and monthly subscription plans for full access to premium features.
+- **Payment Processing:** All billing, payments, renewals, and cancellations are handled securely directly by the respective store platform where the application was downloaded.
+- **Subscription Management:** We use **RevenueCat** to validate and manage subscription statuses. RevenueCat handles anonymous purchase tokens to confirm subscription validity. We do not have access to your personal financial or payment information.
 
 ### 1.5. Offline Usage
-After the initial login and verification, the app can be used offline. Subscription status is cached locally and synchronized whenever an internet connection is available.
-
-### 1.6. Data Sharing
-We do not sell your data. We only share information with third-party services necessary for:
-* Authentication and database management.
-* Subscription management and validation.
+Subscription status is cached locally on your device and synchronized whenever an active internet connection is available.
 
 ---
 
-## 2. Português
+## 2. Versão em Português
 
 **Data de Vigência:** 24 de Dezembro de 2025
 
 ### 2.1. Introdução
-Bem-vindo ao **CombiPads - Pads Contínuos**. Respeitamos sua privacidade e estamos comprometidos em proteger seus dados pessoais. Esta política explica como lidamos com suas informações ao usar nossos serviços.
+Bem-vindo ao **CombiPads - Pads Contínuos**. Respeitamos sua privacidade e estamos comprometidos em proteger seus dados. Esta política explica como as informações são tratadas ao utilizar nosso aplicativo nas plataformas e lojas suportadas.
 
-### 2.2. Coleta de Dados
-Para fornecer nossos serviços, coletamos:
-* **Informações de Conta:** Endereço de e-mail fornecido durante o registro.
-* **Informações do Dispositivo:** Identificadores exclusivos para aplicar o limite de 2 dispositivos por conta.
-* **Dados de Assinatura:** Informações sobre o status da sua assinatura, gerenciadas e processadas pela respectiva loja de aplicativos.
+### 2.2. Coleta de Dados e Privacidade
+Não exigimos cadastro de conta ou login, nem coletamos, armazenamos ou compartilhamos dados pessoais identificáveis ou informações sensíveis dos usuários.
 
-### 2.3. Recursos e Uso do Aplicativo
+### 2.3. Recursos e Armazenamento Local
 Nosso aplicativo permite:
-* Download e reprodução de pads contínuos.
-* Importação de arquivos de áudio personalizados (apenas formato MP3).
-* Criação, exportação e importação de presets.
-* Uso de ferramentas de áudio avançadas (Pitch, Fade, Cutoff, Metrônomo, etc.).
-Os arquivos importados e os presets criados são armazenados localmente no seu dispositivo.
+- Download e reprodução de pads contínuos.
+- Importação de arquivos de áudio personalizados.
+- Criação, exportação e importação de presets.
+- Uso de ferramentas de áudio avançadas (Pitch, Fade, Cutoff, Metrônomo, etc.).
 
-### 2.4. Período de Teste e Assinaturas
-* **Trial (Teste):** Oferecemos um período de teste de 3 dias. O registro é obrigatório para acessar o teste.
-* **Assinatura:** Assinaturas mensais concedem acesso total a todos os recursos. Pagamentos, renovações e cancelamentos são tratados diretamente pela loja.
-* **Limite de Dispositivos:** O uso é restrito a no máximo 2 dispositivos por conta para evitar o compartilhamento não autorizado.
+Todos os arquivos importados, presets criados e configurações de uso são armazenados exclusivamente de forma local no seu dispositivo.
+
+### 2.4. Assinaturas e Processamento de Pagamentos
+- **Período de Teste e Assinaturas:** Podemos oferecer períodos de teste (trial) e planos de assinatura mensal para acesso completo aos recursos avançados.
+- **Processamento de Pagamentos:** Cobranças, pagamentos, renovações e cancelamentos são gerenciados diretamente e de forma segura pela respectiva loja de aplicativos onde o aplicativo foi baixado.
+- **Gerenciamento de Assinatura:** Utilizamos a tecnologia **RevenueCat** para validar e gerenciar os status de assinatura. A RevenueCat utiliza tokens anônimos de compra para confirmar a validade da assinatura. Não temos acesso aos seus dados financeiros ou de pagamento.
 
 ### 2.5. Uso Offline
-Após o login inicial e a verificação, o aplicativo pode ser usado offline. O status da assinatura é armazenado em cache localmente e sincronizado sempre que uma conexão com a internet estiver disponível.
+O status da sua assinatura é armazenado em cache localmente no dispositivo e sincronizado automaticamente sempre que houver uma conexão ativa com a internet.
 
-### 2.6. Compartilhamento de Dados
-Não vendemos seus dados. Apenas compartilhamos informações com serviços de terceiros necessários para:
-* Autenticação e gerenciamento de banco de dados.
-* Gerenciamento e validação de assinaturas.
+```
